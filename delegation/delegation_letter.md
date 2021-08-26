@@ -14,12 +14,13 @@ below) to Delegate and Delegate will use those Governance Rights to
 participate in the governance of the \[PROTOCOL NAME\] protocol
 ("**<u>Protocol</u>**").
 
-**WHEREAS**, \[TOKEN\] is an ERC-20 token on the Ethereum blockchain
-that empowers community governance of the Protocol (the
+**WHEREAS**, \[TOKEN\] (\[TOKEN SYMBOL\]) is an ERC-20 token on the Ethereum blockchain
+located at address 0x\[TOKEN ADDRESS\] that empowers community governance of the Protocol (the
 "**<u>Token</u>**");
 
 **WHEREAS**, the Token confers on its holders the right to debate,
-propose, and vote on all proposals relating to the Protocol
+propose, and vote on all proposals relating to the Protocol as determined by 
+the governor contract located at 0x\[TOKEN GOVERNOR ADDRESS\]
 ("**<u>Governance Rights</u>**"), as well as the right to delegate
 those Governance Rights to others;
 
@@ -87,7 +88,7 @@ follows:
         discussions regarding changes to the Protocol and research and
         review code related to certain proposed changes to the Protocol
         (the "**<u>Delegation Related Services</u>**"), and may also
-        incur expenses and other costs in the course of performing
+        incur expenses and other costs in the course of performing such
         Delegation Related Services.
 
     b.  As consideration for the Delegation Related Services,
@@ -178,12 +179,12 @@ follows:
 8.  **<u>Governing Law; Waiver of Jury Trial.</u>**
 
     a.  This Agreement will be governed by and construed exclusively in
-        accordance with the laws of the State of California, without
+        accordance with the laws of the State of New York, without
         regard to its conflicts of laws provisions or rules. The parties
         hereby agree to submit to the exclusive jurisdiction of any
         appropriate federal or state court of competent jurisdiction
-        located in the Counties of San Francisco and Santa Clara,
-        California, as a forum for litigation. Each of the parties
+        located in the County of New York,
+        New York, as a forum for litigation. Each of the parties
         hereto hereby waives all right to trial by jury in any lawsuit,
         action, proceeding or counterclaim arising out of this
         Agreement.
