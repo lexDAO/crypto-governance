@@ -147,9 +147,9 @@ follows:
         non-participation in material votes, and does not cure such
         breach within \[NUMBER\] days.
 
-    c.  Delegate may terminate this Agreement for any reason or no
+    c.  Delegator may terminate this Agreement for any reason or no
         reason, upon providing \[NUMBER\] month's written notice to
-        Tokenholder.
+        Delagatee.
 
     d.  Following the termination or non-renewal of this Agreement by
         either party, Tokenholder will revoke the Delegated Portion in
